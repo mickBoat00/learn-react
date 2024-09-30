@@ -1,4 +1,4 @@
 # learn-react
 
 
-[Intro to React]((https://github.com/mickBoat00/learn-react/blob/main/docs/01-intro.md))
+[Intro to React](https://mickboat00.github.io/learn-react/docs/01-intro.html)
